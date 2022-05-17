@@ -1,0 +1,14 @@
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\bin\Debug\Exp2.exe.config
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\bin\Debug\Exp2.exe
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\bin\Debug\Exp2.pdb
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.csprojResolveAssemblyReference.cache
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.Form1.resources
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.Properties.Resources.resources
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.csproj.GenerateResource.Cache
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.exe
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.pdb
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.Form2.resources
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\bin\Debug\Exp2.exe.manifest
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\bin\Debug\Exp2.application
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.exe.manifest
+C:\Users\laura.r.marusich.ctr\Documents\Visual Studio 2012\Projects\Exp2\Exp2\obj\Debug\Exp2.application
